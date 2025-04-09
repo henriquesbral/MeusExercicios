@@ -251,5 +251,19 @@ namespace TesteMercadoLibre
 
             Console.WriteLine($"A frase informada possui {palavras.Count()} palavras.");
         }
+
+        private static void ChamandoClasseNaProgram()
+        {
+            //exercicios.ContarVogais(palavra);
+            //exercicios.VerificarParImpar(numero);
+            //exercicios.SomarNumero(numero);
+            //exercicios.ImprimirNumeros();
+            //exercicios.ContagemRegressiva(numero);
+            //exercicios.InverterString(palavra);
+            //exercicios.MediaNotas();
+            //exercicios.MaiorMenorArray();
+            //exercicios.SepararNumerosParImpar();
+            //exercicios.ContarPalavras();
+        }
     }
 }
